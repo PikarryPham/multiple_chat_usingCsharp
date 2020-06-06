@@ -1,0 +1,44 @@
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Client.exe.config
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Client.exe
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Client.pdb
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\EntityFramework.dll
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\EntityFramework.xml
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.frmMain.resources
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.exe
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.pdb
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Server.exe
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Server.exe.config
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\bin\Debug\Server.pdb
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.frmRegister.resources
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.frmChangePassword.resources
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.frmProfile.resources
+D:\Lap Trinh\Code_thue\Chat-Socket\ChatAllSocket\Client\obj\Debug\Client.frmFileName.resources
+E:\Work\ChatAllSocket\Client\bin\Debug\Client.exe.config
+E:\Work\ChatAllSocket\Client\bin\Debug\Client.exe
+E:\Work\ChatAllSocket\Client\bin\Debug\Client.pdb
+E:\Work\ChatAllSocket\Client\bin\Debug\EntityFramework.dll
+E:\Work\ChatAllSocket\Client\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\ChatAllSocket\Client\bin\Debug\Server.exe
+E:\Work\ChatAllSocket\Client\bin\Debug\Server.pdb
+E:\Work\ChatAllSocket\Client\bin\Debug\Server.exe.config
+E:\Work\ChatAllSocket\Client\bin\Debug\EntityFramework.xml
+E:\Work\ChatAllSocket\Client\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.frmChangePassword.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.frmFileName.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.frmMain.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.frmProfile.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.frmRegister.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.exe
+E:\Work\ChatAllSocket\Client\obj\Debug\Client.pdb
